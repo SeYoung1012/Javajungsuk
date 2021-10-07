@@ -1,6 +1,7 @@
 package JavaJungSuk;
 
 public class MyTv {
+
 	boolean isPowerOn;
 	int channel;
 	int volume;
